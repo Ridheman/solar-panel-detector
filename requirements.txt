@@ -1,0 +1,11 @@
+Django
+torch
+torchvision
+ultralytics
+opencv-python-headless
+scikit-learn
+joblib
+numpy
+Pillow
+reportlab
+gunicorn

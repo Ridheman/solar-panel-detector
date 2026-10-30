@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+datasets/
+processed_dataset/
+runs/
+media/
+db.sqlite3
+.env
+.DS_Store
+solar_classification_result.jpg
+solar_panel_result.jpg
